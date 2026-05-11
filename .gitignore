@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.pyd
+
+# 配置文件（包含个人数据）
+pomodoro_config.json
+pomodoro_stats.json
+
+# Windows
+*.pyc
+*.pyo
+.DS_Store
